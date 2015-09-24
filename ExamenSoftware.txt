@@ -1,0 +1,5 @@
+que es ingenieria de software :
+
+ingeniería de software es la aplicación de un enfoque sistemático, 
+disciplinado y cuantificable al desarrollo, operación y mantenimiento de software, 
+y el estudio de estos enfoques, es decir, la aplicación de la ingeniería al software.
