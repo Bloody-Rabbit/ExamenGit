@@ -1,11 +1,4 @@
-
-que es ingenieria de software :
-
-ingeniería de software es la aplicación de un enfoque sistemático, 
-disciplinado y cuantificable al desarrollo, operación y mantenimiento de software, 
-y el estudio de estos enfoques, es decir, la aplicación de la ingeniería al software.
-                    
-ETAPAS DE DESARROLLO DE SOFTWARE
+                        ETAPAS DE DESARROLLO DE SOFTWARE
 
 La ingeniería de software requiere llevar a cabo numerosas tareas agrupadas en etapas, al conjunto de estas etapas se le denomina ciclo de vida . Las etapas comunes a casi todos los modelos de ciclo de vida son las siguientes:
 
