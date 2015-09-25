@@ -1,0 +1,32 @@
+son diversas aplicaciones informáticas o programas informáticos destinadas a aumentar la productividad en el desarrollo de software reduciendo el costo de las mismas 
+en términos de tiempo y de dinero.Herramientas de bajo nivel, L-CASE (Lower CASE - CASE inferior) o back-end, dirigidas a las últimas fases del desarrollo: 
+construcción e implantación.
+
+Juegos de herramientas o toolkits, son el tipo más simple de herramientas CASE. Automatizan una fase dentro del ciclo de vida. Dentro de este grupo se encontrarían 
+las herramientas de reingeniería, orientadas a la fase de mantenimiento.
+
+Otra posible clasificación, utilizando la funcionalidad como criterio principal, es la siguiente:
+
+    Herramientas de gestión de proyectos
+
+    Herramientas de gestión y configuración de software (SCM)
+
+    Herramientas de calidad y seguridad de software
+
+    Herramientas de análisis y diseño
+
+    Herramientas de desarrollo de interfaz de usuarios
+
+    Herramientas para la Ingeniería de Software Orientada a Objetos
+
+    Herramientas de integración y prueba
+
+    Herramientas de métodos formales
+
+    Herramientas Cliente/Servidor
+
+    Herramientas de Ingeniería WEB
+
+    Herramientas de Reingeniería
+
+    Beneficios de las Herramientas CASE
