@@ -1,0 +1,9 @@
+Tipos de software :
+	-Software de Sistemas
+	-Software de Tiempo Real
+	-Software de Gestion
+	-Software de Ingenieria y cienifico
+	-Software empotrado
+	-Softwarede computadoras personales
+	-Software basado en Web
+	-Software de Inteligencia Artificial
