@@ -1,0 +1,5 @@
+Los dos puntos principales de:
++ Etapas del desarrollo 
++ Engenieria de software
+
+Si son los que le dije que si se pudieron fusionar en el mismo archivo, cuando empezo a marcar error comenzamos a subir los demas archivos en difernetes .txt, y ahora ya estan fusionadas todas las ramas en la rama "master"
